@@ -6,3 +6,6 @@ script that reads in .geojson format and extracts certain country codes exportin
 
 csv_reader.py
 script that reads in .csv file from sciGrid data and extracts data for germany
+
+summing_diameter_groups.py
+script that sum pipeline diameters into groups
